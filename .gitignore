@@ -1,0 +1,7 @@
+# IDEs
+.vs/
+
+# CMake
+out/
+build/
+CMakeUserPresets.json
